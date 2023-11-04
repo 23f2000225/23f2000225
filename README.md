@@ -5,7 +5,7 @@
 - I'm completely new in the tech field and nor I'm able to pay professional teams for their services.
 - If anyone respected wants to help me or wants to give their valuable time on this project to bring it on ground,Pls reach out to me!! 
 - 📫 How to reach me- you can mail me on my mail-id that is 23f2000225@ds.study.iitm.ac.in
-- Thank you
+- Thank you!
 
 <!---
 23f2000225/23f2000225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
